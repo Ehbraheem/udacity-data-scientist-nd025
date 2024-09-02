@@ -1,0 +1,3 @@
+# Udacity Data Scientist Nanodegree Program
+
+Our Data Science Nanodegree program is a specialized data science program that equips learners with the skills to run data pipelines, design experiments, and develop recommendation systems. The curriculum, rich in practical skills like scikit-learn and NumPy, prepares you for real-world challenges in data science. Learn from experts and engage in projects that mirror industry scenarios. At Udacity, our focus is on making you job-ready with practical, industry-aligned training. Dive into the world of data science with us, where hands-on learning meets career transformation. Enhance your skills and pave your way to a successful career in data science.
